@@ -83,6 +83,6 @@ if you are on untested version or something need to configure ,you can do that w
 
 my repo for jailbreak tweaks [powen00hsiao repo](https://powenn.github.io/powen00hsiao/)
 
-[1]:https://github.com/powenn/pinera1n/blob/main/photos/01.png
-[2]:https://github.com/powenn/pinera1n/blob/main/photos/02.png
-[3]:https://github.com/powenn/pinera1n/blob/main/photos/03.png
+[1]:https://github.com/powenn/pinera1n/blob/main/photos/01.HEIC
+[2]:https://github.com/powenn/pinera1n/blob/main/photos/02.HEIC
+[3]:https://github.com/powenn/pinera1n/blob/main/photos/03.HEIC
