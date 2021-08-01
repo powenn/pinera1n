@@ -66,8 +66,9 @@ sudo ./checkra1n
 ```
 if you are on untested version or something need to configure ,you can do that with optional,and you should see the start button avaliable,and follow checkra1n to complete jaibreak
 
-
-
+## Demo video
+just show how I do it ,will post another video as tutorial video
+[demo video](https://www.youtube.com/watch?v=M5mNpY8a2zM)
 
 
 
