@@ -71,17 +71,7 @@ just show how I do it ,will post another video as tutorial video
 [demo video](https://www.youtube.com/watch?v=M5mNpY8a2zM)
 
 
-
-
-
-
-
-
-
-
-
-
-
+## My repo
 my repo for jailbreak tweaks [powen00hsiao repo](https://powenn.github.io/powen00hsiao/)
 
 [1]:https://github.com/powenn/pinera1n/blob/main/photos/01.png
