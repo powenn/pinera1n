@@ -11,8 +11,11 @@ I think this is a great way to make checkra1n portable,runs on pinephone and you
 - [A pinephone](https://www.pine64.org/pinephone/)
 - [A usb-c docking bar (contain usb-A to lighting and usb-c charging port,must use usb-A to lighting connect iphone)]
 - [usb-A to lighting]
+
 -[charging supply with usb-c]
+
 -[micro sd] (optional)
+
 -[latest image release of mobian image](https://mobian-project.org)
 
 ## Things you need on mobian
