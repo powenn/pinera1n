@@ -83,7 +83,7 @@ quit checkra1n on pinephone and don't open checkra1n on iphone
 
 make sure have installed optional dependencies for odysseyra1n
 
-and paste thecommand
+and paste the command
 `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/coolstar/Odyssey-bootstrap/master/procursus-deploy-linux-macos.sh)"`
 it will require password and type
 `alpine`
