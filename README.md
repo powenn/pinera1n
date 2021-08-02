@@ -67,7 +67,7 @@ sudo ./checkra1n
 ```
 if you are on untested version or something need to configure ,you can do that with optional,and you should see the start button avaliable,and follow checkra1n to complete jaibreak
 
-## Advantage of pinera1n
+## `Advantage of pinera1n`
 - portable and friendly to operate with full GUI and touchscreen
 - it's a linux phone ,so you can do others thing else,not just a phone for jailbreak
 - it's a nice price for this awesome phone,with so much features only need 149 $ for standard pack
