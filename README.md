@@ -78,7 +78,7 @@ if you are on untested version or something need to configure ,you can do that w
 - no  complex progress,most of steps on phones
 
 ## Demo video
-just show how I do it ,will post another video as tutorial video
+just show how I do it ,might post another video as tutorial video
 [demo video](https://www.youtube.com/watch?v=M5mNpY8a2zM)
 
 
