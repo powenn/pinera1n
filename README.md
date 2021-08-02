@@ -74,8 +74,8 @@ if you are on untested version or something need to configure ,you can do that w
 - just one command ,and you can get root easily in terminal
 - you can underatand well how to do ,because it just need to conncet phone and phone
 - with the offical support for linux on arm,it works better than android 
-- you can have the latest release of checkra1n on pinephone
-- no need complex progress,most of steps on phones
+- you can use the latest release of checkra1n on pinephone
+- no  complex progress,most of steps on phones
 
 ## Demo video
 just show how I do it ,will post another video as tutorial video
