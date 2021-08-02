@@ -75,7 +75,7 @@ just show how I do it ,will post another video as tutorial video
 my repo for jailbreak tweaks [powen00hsiao repo](https://powenn.github.io/powen00hsiao/)
 
 ## Introduce pinephone
-from wiki :The PinePhone is a smartphone developed by Hong Kong-based computer manufacturer Pine64, intended to allow the user to have full control over the device. Measures to ensure this are: running mainline Linux-based mobile operating systems, assembling the phone with screws, simplifying the disassembly for repairs and upgrades,[5] and providing six kill switches/security switches for components of its hardware.[6] The PinePhone ships with the Manjaro Linux-based operating system using the Plasma Mobile graphic interface, although other distributions can be installed by users.
+from wiki :The PinePhone is a smartphone developed by Hong Kong-based computer manufacturer Pine64, intended to allow the user to have full control over the device. Measures to ensure this are: running mainline Linux-based mobile operating systems, assembling the phone with screws, simplifying the disassembly for repairs and upgrades, and providing six kill switches/security switches for components of its hardware.The PinePhone ships with the Manjaro Linux-based operating system using the Plasma Mobile graphic interface, although other distributions can be installed by users.
 
 It's a phone with arm architecture,and run different linux distribution,with linux ,you can do so something cool,just like make checkra1n being portable with friendly GUI ,this phone is not expensive,for standard pack only 149 $,spent less than most android phone,but you can have GUI to operate checkra1n easily
 
