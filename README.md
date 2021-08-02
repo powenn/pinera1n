@@ -79,7 +79,7 @@ from wiki :The PinePhone is a smartphone developed by Hong Kong-based computer m
 
 It's a phone with arm architecture,and run different linux distribution,with linux ,you can do  something cool, like make checkra1n being portable with friendly GUI ,this phone is not expensive,for standard pack only 149 $,spent less than most android phone,but you can have GUI to operate checkra1n easily
 
-# `IF YOU HAVE ANY QUESTION,CONTACT ME ON TWITTER`
+# IF YOU HAVE ANY QUESTION,CONTACT ME ON [TWITTER](https://twitter.com/powen00hsiao)
 
 [1]:https://github.com/powenn/pinera1n/blob/main/photos/01.png
 [2]:https://github.com/powenn/pinera1n/blob/main/photos/02.png
