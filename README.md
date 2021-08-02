@@ -1,6 +1,7 @@
 # pinera1n
 
 I think this is a great way to make checkra1n portable,runs on pinephone and you can use gui  oringinal latest release of checkra1n,and you can operate it with touchscreen ,It called pinera1n because it's checkra1n on pinephone,it's not a expensive but really useful phone,I had tested checkra1n on mobian,so I suggest user run checkra1n with mobian on pinephone,because it required usbmuxd ,others linux distribution might works with a bit different(if interesd about that ,contact me on twitter),it's the most important thing,without it ,iPhone won't connect correctly with pinephone ,now follow the steps to jailbreak with the awesome phone 
+**NOTE:odysseyra1n works too on pinephone**
 
 ## Demo 
 ![Demo photo][1]
@@ -21,6 +22,10 @@ I think this is a great way to make checkra1n portable,runs on pinephone and you
 - [latest checkra1n release for linux arm64](https://checkra.in)
 - king's cross(terminal program on mobian)
 
+## Things you need on mobian if want odysseyra1n(optional)
+- curl
+- libusbmuxd-tools
+
 ## Getting  Start
 
 Now following steps to get a friendly easily portable checkra1n ,with this while you lose jailbreak environment,just connect to pinephone,start with friendly gui to rejailbreak,don't need computer 
@@ -30,7 +35,12 @@ Now following steps to get a friendly easily portable checkra1n ,with this while
 First,you need to flash mobian to pinephone,check this [tutorial](https://wiki.pine64.org/wiki/PinePhone_Installation_Instructions)
 
 ### Perpare things will need on mobian
-
+*optional for odysseyra1n(install them last )*
+install curl and libusbmuxd-tools
+```
+sudo apt-get install curl
+sudo apt-get install libusbmuxd-tools
+```
 update it first 
 ```
 sudo apt-get update
@@ -65,7 +75,18 @@ cd Downloads
 cd checkra1n
 sudo ./checkra1n
 ```
-if you are on untested version or something need to configure ,you can do that with optional,and you should see the start button avaliable,and follow checkra1n to complete jaibreak
+if you are on untested version or something need to configure ,you can do that with optional,and you should see the start button avaliable,and follow checkra1n to complete jaibreak,if you want odysseyra1n ,don't open checkra1n ,and keep going
+
+## If want odysseyra1n then keep going
+quit checkra1n on pinephone and don't open checkra1n on iphone
+
+make sure have installed optional dependencies for odysseyra1n
+
+and paste thecommand
+`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/coolstar/Odyssey-bootstrap/master/procursus-deploy-linux-macos.sh)"`
+it will require password and type
+`alpine`
+you will see sileo on iphone ,search and install libhooker and rocketbootstrap,end
 
 ## `Advantage of pinera1n`
 - portable and friendly to operate with full GUI and touchscreen
