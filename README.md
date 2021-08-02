@@ -50,7 +50,7 @@ chmod +x checkra1n
 ```
 exit terminal and re-open it ,now set the terminal size and scale ,so that we can run checkra1n with gui ,it will be more friendly to use 
 
-`set terminal scale to 40 % first(set this with the menu on the right top corner) `
+`set terminal scale to 50 % first(set this with the menu on the right top corner) `
 type this in terminal ,make sure W bigger than 80 and H 24
 ```
 resize -s 80 24
