@@ -1,6 +1,7 @@
 # pinera1n
 
 I think this is a great way to make checkra1n portable,runs on pinephone and you can use gui  oringinal latest release of checkra1n,and you can operate it with touchscreen ,It called pinera1n because it's checkra1n on pinephone,it's not a expensive but really useful phone,I had tested checkra1n on mobian,so I suggest user run checkra1n with mobian on pinephone,because it required usbmuxd ,others linux distribution might works with a bit different(if interesd about that ,contact me on twitter),it's the most important thing,without it ,iPhone won't connect correctly with pinephone ,now follow the steps to jailbreak with the awesome phone 
+
 **NOTE:odysseyra1n works too on pinephone**
 
 ## Demo 
@@ -37,7 +38,7 @@ First,you need to flash mobian to pinephone,check this [tutorial](https://wiki.p
 ### Perpare things will need on mobian
 *optional for odysseyra1n(install them last )*
 
-install curl and libusbmuxd-tools
+install curl and libusbmuxd-tools(these are optional,can skip if only need checkra1n)
 ```
 sudo apt-get install curl
 sudo apt-get install libusbmuxd-tools
