@@ -1,6 +1,6 @@
 # pinera1n
 
-I think this is a great way to make checkra1n portable,runs on pinephone and you can use gui  oringinal latest release of checkra1,and you can control it with touchscreen ,It called pinera1n because it's checkra1n on pinephone,it's not a expensive but really useful phone,I had tested checkra1n on mobian,so I suggest user run checkra1n with mobian on pinephone,because it required usbmuxd ,others linux distribution might works with a bit different(if interesd about that ,contact me on twitter),it's the most important thing,without it ,iPhone won't connect correctly with pinephone ,now follow the steps to jailbreak with the awesome phone 
+I think this is a great way to make checkra1n portable,runs on pinephone and you can use gui  oringinal latest release of checkra1n,and you can operate it with touchscreen ,It called pinera1n because it's checkra1n on pinephone,it's not a expensive but really useful phone,I had tested checkra1n on mobian,so I suggest user run checkra1n with mobian on pinephone,because it required usbmuxd ,others linux distribution might works with a bit different(if interesd about that ,contact me on twitter),it's the most important thing,without it ,iPhone won't connect correctly with pinephone ,now follow the steps to jailbreak with the awesome phone 
 
 ## Demo 
 ![Demo photo][1]
@@ -77,7 +77,7 @@ my repo for jailbreak tweaks [powen00hsiao repo](https://powenn.github.io/powen0
 ## Introduce pinephone
 from wiki :The PinePhone is a smartphone developed by Hong Kong-based computer manufacturer Pine64, intended to allow the user to have full control over the device. Measures to ensure this are: running mainline Linux-based mobile operating systems, assembling the phone with screws, simplifying the disassembly for repairs and upgrades, and providing six kill switches/security switches for components of its hardware.The PinePhone ships with the Manjaro Linux-based operating system using the Plasma Mobile graphic interface, although other distributions can be installed by users.
 
-It's a phone with arm architecture,and run different linux distribution,with linux ,you can do so something cool,just like make checkra1n being portable with friendly GUI ,this phone is not expensive,for standard pack only 149 $,spent less than most android phone,but you can have GUI to operate checkra1n easily
+It's a phone with arm architecture,and run different linux distribution,with linux ,you can do  something cool, like make checkra1n being portable with friendly GUI ,this phone is not expensive,for standard pack only 149 $,spent less than most android phone,but you can have GUI to operate checkra1n easily
 
 [1]:https://github.com/powenn/pinera1n/blob/main/photos/01.png
 [2]:https://github.com/powenn/pinera1n/blob/main/photos/02.png
