@@ -36,13 +36,7 @@ Now following steps to get a friendly easily portable checkra1n ,with this while
 First,you need to flash mobian to pinephone,check this [tutorial](https://wiki.pine64.org/wiki/PinePhone_Installation_Instructions)
 
 ### Perpare things will need on mobian
-*optional for odysseyra1n(install them last )*
 
-install curl and libusbmuxd-tools(these are optional,can skip if only need checkra1n)
-```
-sudo apt-get install curl
-sudo apt-get install libusbmuxd-tools
-```
 update it first 
 ```
 sudo apt-get update
@@ -59,6 +53,13 @@ now give checkra1n permission
 ```
 cd Downloads
 chmod +x checkra1n
+```
+*optional for odysseyra1n*
+
+install curl and libusbmuxd-tools(these are optional,can skip if only need checkra1n)
+```
+sudo apt-get install curl
+sudo apt-get install libusbmuxd-tools
 ```
 exit terminal and re-open it ,now set the terminal size and scale ,so that we can run checkra1n with gui ,it will be more friendly to use 
 
