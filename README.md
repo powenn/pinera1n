@@ -9,17 +9,17 @@ I think this is a great way to make checkra1n portable,runs on pinephone and you
 
 ## Things you need(hardware and mobian image)
 - [A pinephone](https://www.pine64.org/pinephone/)
-- [A usb-c docking bar (contain usb-A to lighting and usb-c charging port,must use usb-A to lightning connect iphone)]
-- [usb-A to lightning]
-- [charging supply with usb-c]
-- [micro sd] (optional)
+- A usb-c docking bar (contain usb-A to lighting and usb-c charging port,must use usb-A to lightning connect iphone)
+- usb-A to lightning
+- charging supply with usb-c
+- micro sd (optional)
 - [latest image release of mobian image](https://mobian-project.org)
 
 ## Things you need on mobian
 - [xterm](https://packages.debian.org/search?keywords=usbmuxd)(for resize terminal size)
-- [usbmuxd](must need to connect iphone correctly)
+- usbmuxd(must need to connect iphone correctly)
 - [latest checkra1n release for linux arm64](https://checkra.in)
-- [king's cross] (terminal program on mobian)
+- king's cross(terminal program on mobian)
 
 ## Getting  Start
 
