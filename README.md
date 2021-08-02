@@ -22,7 +22,7 @@ I think this is a great way to make checkra1n portable,runs on pinephone and you
 - [latest checkra1n release for linux arm64](https://checkra.in)
 - king's cross(terminal program on mobian)
 
-## Things you need on mobian if want odysseyra1n(optional)
+## `Things you need on mobian if want odysseyra1n(optional)`
 - curl
 - libusbmuxd-tools
 
@@ -77,7 +77,7 @@ sudo ./checkra1n
 ```
 if you are on untested version or something need to configure ,you can do that with optional,and you should see the start button avaliable,and follow checkra1n to complete jaibreak,if you want odysseyra1n ,don't open checkra1n ,and keep going
 
-## If want odysseyra1n then keep going
+## `If want odysseyra1n then keep going`
 quit checkra1n on pinephone and don't open checkra1n on iphone
 
 make sure have installed optional dependencies for odysseyra1n
