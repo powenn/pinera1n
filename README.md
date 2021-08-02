@@ -103,6 +103,10 @@ you will see sileo on iphone ,search and install libhooker and rocketbootstrap,e
 just show how I do it ,might post another video as tutorial video
 [demo video](https://www.youtube.com/watch?v=M5mNpY8a2zM)
 
+## Tutorial video
+I showed the progress I used odysseyra1n 
+[watch it on youtube](https://www.youtube.com/watch?v=Ite65xLu4TE)
+
 
 ## My repo
 my repo for jailbreak tweaks [powen00hsiao repo](https://powenn.github.io/powen00hsiao/)
