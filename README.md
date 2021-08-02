@@ -36,6 +36,7 @@ First,you need to flash mobian to pinephone,check this [tutorial](https://wiki.p
 
 ### Perpare things will need on mobian
 *optional for odysseyra1n(install them last )*
+
 install curl and libusbmuxd-tools
 ```
 sudo apt-get install curl
