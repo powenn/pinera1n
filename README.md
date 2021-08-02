@@ -16,7 +16,7 @@ I think this is a great way to make checkra1n portable,runs on pinephone and you
 - [latest image release of mobian image](https://mobian-project.org)
 
 ## Things you need on mobian
-- [xterm](https://packages.debian.org/search?keywords=usbmuxd)(for resize terminal size)
+- xterm(for resize terminal size)
 - usbmuxd(must need to connect iphone correctly)
 - [latest checkra1n release for linux arm64](https://checkra.in)
 - king's cross(terminal program on mobian)
