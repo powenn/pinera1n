@@ -5,7 +5,7 @@ I think this is a great way to make checkra1n portable,runs on pinephone and you
 
 **NOTE:odysseyra1n works too on pinephone**
 
-**ADD:others linux phone should work too,called it pinera1n just because the first successed case was on pinephone,`distributions based on debian shold work too,like ubuntu touch`**
+**ADD:others linux phone should work too,called pinera1n just because the first successed case was on pinephone,`distributions based on debian shold work too,like ubuntu touch`**
 
 ## Demo 
 ![Demo photo][1]
