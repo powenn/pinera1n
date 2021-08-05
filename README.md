@@ -1,11 +1,11 @@
 # pinera1n
 ## A jailbreak method with linux phone 
 
-I think this is a great way to make checkra1n portable,runs on pinephone and you can use gui  oringinal latest release of checkra1n,and you can operate it with touchscreen ,It called pinera1n because it's checkra1n on pinephone,it's not a expensive but really useful phone,I had tested checkra1n on mobian,so I suggest user run checkra1n with mobian on pinephone,because it required usbmuxd ,others linux distribution might works with a bit different(if interesd about that ,contact me on twitter),it's the most important thing,without it ,iPhone won't connect correctly with pinephone ,now follow the steps to jailbreak with the awesome phone 
+I think this is a great way to make checkra1n portable,runs on pinephone and you can use gui  oringinal latest release of checkra1n,and you can operate it with touchscreen ,It called pinera1n because it's checkra1n on pinephone,it's not a expensive but really useful phone,I had tested checkra1n on mobian,so I suggest user run checkra1n with mobian on pinephone,because it required usbmuxd ,others linux distribution might works with a bit different(if interesd about that ,contact me on [twitter](https://twitter.com/powen00hsiao),it's the most important thing,without it ,iPhone won't connect correctly with pinephone ,now follow the steps to jailbreak with the awesome phone 
 
 **NOTE:odysseyra1n works too on pinephone**
 
-**ADD:others linux phone should work too,called it pinera1n just because the first successed case was on pinephone,distributions based on debian shold work too,like ubuntu touch**
+**ADD:others linux phone should work too,called it pinera1n just because the first successed case was on pinephone,`distributions based on debian shold work too,like ubuntu touch`**
 
 ## Demo 
 ![Demo photo][1]
