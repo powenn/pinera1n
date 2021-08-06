@@ -1,5 +1,5 @@
 # pinera1n
-<a href="https://www.pine64.org/pinephone/" target="_blank">
+<a href="https://www.pine64.org/pinephone/" >
   <img src="https://www.pine64.org/wp-content/uploads/2020/05/PinePhone-3.jpg" height="320"/>
 </a>
 
