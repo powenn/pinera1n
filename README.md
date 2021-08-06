@@ -1,4 +1,8 @@
 # pinera1n
+<a href="https://www.pine64.org/pinephone/" target="_blank">
+  <img src="https://www.pine64.org/wp-content/uploads/2020/05/PinePhone-3.jpg" height="320"/>
+</a>
+
 ## A jailbreak method with linux phone 
 
 I think this is a great way to make checkra1n portable,runs on pinephone and you can use gui  oringinal latest release of checkra1n,and you can operate it with touchscreen ,It called pinera1n because it's checkra1n on pinephone,it's not a expensive but really useful phone,I had tested checkra1n on mobian,so I suggest user run checkra1n with mobian on pinephone,because it required usbmuxd ,others linux distribution might works with a bit different(if interesd about that ,contact me on [twitter](https://twitter.com/powen00hsiao)),it's the most important thing,without it ,iPhone won't connect correctly with pinephone ,now follow the steps to jailbreak with the awesome phone 
