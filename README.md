@@ -103,7 +103,7 @@ you will see sileo on iphone ,search and install libhooker and rocketbootstrap,e
 - with the offical support for linux on arm,it works better than android 
 - you can use the latest release of checkra1n on pinephone
 - no  complex progress,most of steps on phones
-- *odysseyra1n works on pinephone*
+- **odysseyra1n works on pinephone**
 
 ## Demo video
 just show how I do it ,might post another video as tutorial video
