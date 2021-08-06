@@ -12,9 +12,17 @@ I think this is a great way to make checkra1n portable,runs on pinephone and you
 **ADD:others linux phone should work too,called pinera1n just because the first successed case was on pinephone,`distributions based on debian shold work too,like ubuntu touch`**
 
 ## Demo 
-![Demo photo][1]
-![Demo photo][2]
-![Demo photo][3]
+<a href="https://github.com/powenn/pinera1n/blob/main/photos/01.png" >
+  <img src="https://github.com/powenn/pinera1n/blob/main/photos/01.png" height="720"/>
+</a>
+
+<a href="https://github.com/powenn/pinera1n/blob/main/photos/02.png" >
+  <img src="https://github.com/powenn/pinera1n/blob/main/photos/02.png" height="720"/>
+</a>
+
+<a href="https://github.com/powenn/pinera1n/blob/main/photos/03.png" >
+  <img src="https://github.com/powenn/pinera1n/blob/main/photos/03.png" height="720"/>
+</a>
 
 ## Things you need(hardware and mobian image)
 - [A pinephone](https://www.pine64.org/pinephone/)
@@ -137,6 +145,3 @@ It's a phone with arm architecture,and run different linux distribution,with lin
   <img src="https://pbs.twimg.com/profile_images/1404649867033550848/3m6kzjQa_400x400.jpg" height="320"/>
 </a>
 
-[1]:https://github.com/powenn/pinera1n/blob/main/photos/01.png
-[2]:https://github.com/powenn/pinera1n/blob/main/photos/02.png
-[3]:https://github.com/powenn/pinera1n/blob/main/photos/03.png
