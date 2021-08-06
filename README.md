@@ -118,8 +118,10 @@ just show how I do it ,have upload another video as tutorial video
 
 ## Tutorial video
 The progress I used odysseyra1n 
-[watch it on youtube](https://www.youtube.com/watch?v=Ite65xLu4TE)
 
+<a href="https://www.youtube.com/watch?v=Ite65xLu4TE">
+  <img src="https://img.youtube.com/vi/Ite65xLu4TE/maxresdefault.jpg" >
+</a>
 
 ## My repo
 my repo for jailbreak tweaks [powen00hsiao repo](https://powenn.github.io/powen00hsiao/)
