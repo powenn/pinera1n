@@ -113,7 +113,7 @@ you will see sileo on iphone ,search and install libhooker and rocketbootstrap,e
 just show how I do it ,have upload another video as tutorial video
 
 <a href="https://www.youtube.com/watch?v=M5mNpY8a2zM">
-  <img src="https://img.youtube.com/vi/M5mNpY8a2zM/maxresdefault.jpg" height="320"/>
+  <img src="https://img.youtube.com/vi/M5mNpY8a2zM/maxresdefault.jpg" >
 </a>
 
 ## Tutorial video
