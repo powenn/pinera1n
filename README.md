@@ -133,6 +133,10 @@ It's a phone with arm architecture,and run different linux distribution,with lin
 
 # IF YOU HAVE ANY QUESTION,CONTACT ME ON [TWITTER](https://twitter.com/powen00hsiao)
 
+<a href="https://twitter.com/powen00hsiao">
+  <img src="https://pbs.twimg.com/profile_images/1404649867033550848/3m6kzjQa_400x400.jpg" height="320"/>
+</a>
+
 [1]:https://github.com/powenn/pinera1n/blob/main/photos/01.png
 [2]:https://github.com/powenn/pinera1n/blob/main/photos/02.png
 [3]:https://github.com/powenn/pinera1n/blob/main/photos/03.png
