@@ -64,7 +64,7 @@ type this in terminal ,make sure W bigger than 80 and H 24
 ```
 resize -s 80 24
 ```
-*optional for odysseyra1n*
+**optional for odysseyra1n**
 
 install curl and libusbmuxd-tools(these are optional,can skip if only need checkra1n)
 ```
