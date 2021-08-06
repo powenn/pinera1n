@@ -18,7 +18,7 @@ I think this is a great way to make checkra1n portable,runs on pinephone and you
 - usb-A to lightning
 - charging supply with usb-c
 - micro sd card 
-- [latest image release of mobian image](https://mobian-project.org)
+- [latest release of mobian image](https://mobian-project.org)
 
 ## Things you need on mobian
 - xterm(for resize terminal size)
