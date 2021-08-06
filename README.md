@@ -45,7 +45,7 @@ update it first
 sudo apt-get update
 sudo apt-get upgrade
 ```
-after these reboot
+reboot after these 
 
 now install xterm and usbmuxd 
 ```
@@ -57,7 +57,7 @@ now give checkra1n permission
 cd Downloads
 chmod +x checkra1n
 ```
-exit terminal and re-open it ,now set the terminal size and scale ,so that we can run checkra1n with gui ,it will be more friendly to use 
+exit terminal and re-open it ,now set the terminal size and scale ,so that we can run checkra1n with GUI ,it will be more friendly to use 
 
 `set terminal scale to 50 % first(set this with the menu on the right top corner) `
 type this in terminal ,make sure W bigger than 80 and H 24
