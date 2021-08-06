@@ -128,3 +128,9 @@ It's a phone with arm architecture,and run different linux distribution,with lin
 [2]:https://github.com/powenn/pinera1n/blob/main/photos/02.png
 [3]:https://github.com/powenn/pinera1n/blob/main/photos/03.png
 
+
+-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+-![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
+-![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
+
+
