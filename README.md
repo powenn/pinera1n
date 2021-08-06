@@ -13,9 +13,9 @@ I think this is a great way to make checkra1n portable,runs on pinephone and you
 
 ## Demo 
 
-! [Demo photo][1]
-! [Demo photo][2]
-! [Demo photo][3]
+![Demo photo][1]
+![Demo photo][2]
+![Demo photo][3]
 
 ## Things you need(hardware and mobian image)
 - [A pinephone](https://www.pine64.org/pinephone/)
