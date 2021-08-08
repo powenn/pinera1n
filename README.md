@@ -151,6 +151,18 @@ The progress I used odysseyra1n
   <img src="https://img.youtube.com/vi/Ite65xLu4TE/maxresdefault.jpg" >
 </a>
 
+## My posts on Twitter 
+
+[checkra1n successed on mobian](https://twitter.com/powen00hsiao/status/1421803816421257227)
+
+[sideload with pinehphne test (using appsync)](https://twitter.com/powen00hsiao/status/1422377286393729028)
+
+[checkra1n successed on arch](https://twitter.com/powen00hsiao/status/1424192009825263620)
+
+[checkra1n successed on manjaro](https://twitter.com/powen00hsiao/status/1424230136518352908)
+
+[odysseyra1n successed on manjaro](https://twitter.com/powen00hsiao/status/1424283336235577345)
+
 ## My repo
 my repo for jailbreak tweaks [powen00hsiao repo](https://powenn.github.io/powen00hsiao/)
 
