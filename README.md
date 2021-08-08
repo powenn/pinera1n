@@ -22,7 +22,7 @@ This is a great way to make checkra1n portable, since it runs on PinePhone! You 
 - USB-C charging supply
 - Micro-SD card
 
-## Supported Linux distributions(only listed I have tested)
+## Supported Linux distributions(only list that I have tested)
 **`apt-get` distributions**
 - [latest release of mobian image](https://mobian-project.org)
 
