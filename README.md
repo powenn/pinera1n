@@ -84,7 +84,7 @@ sudo apt-get install curl libusbmuxd-tools
 ```
 **`for pacman`**
 ```
-sudo pacman -S curl libisbmuxd
+sudo pacman -S curl libusbmuxd
 ```
 now give checkra1n permission
 ```
