@@ -5,11 +5,11 @@
 
 ## A jailbreak method with linux phone 
 
-I think this is a great way to make checkra1n portable,runs on pinephone and you can use gui  oringinal latest release of checkra1n,and you can operate it with touchscreen ,It called pinera1n because it's checkra1n on pinephone,it's not a expensive but really useful phone,I had tested checkra1n on mobian,so I suggest user run checkra1n with mobian on pinephone,because it required usbmuxd ,others linux distribution might works with a bit different(if interesd about that ,contact me on [twitter](https://twitter.com/powen00hsiao)),it's the most important thing,without it ,iPhone won't connect correctly with pinephone ,now follow the steps to jailbreak with the awesome phone 
+I think this is a great way to make checkra1n portable,runs on pinephone and you can use GUI  oringinal latest release of checkra1n,and you can operate it with touchscreen ,It called pinera1n because it's checkra1n on pinephone,it's not a expensive but really useful phone,linux using `apt-get` or `pacman` both are work,`recently default os on pinephone is manjaro,it means you don't need to flash new os to pinephone`,I had tested with arch,manjaro,mobian,now follow the steps to jailbreak with the awesome phone 
 
-**NOTE:odysseyra1n works too on pinephone(now only mobian)**
+**NOTE:odysseyra1n works too on pinephone**
 
-**ADD:others linux phone should work too,called pinera1n just because the first successed case was on pinephone, `Odysseyra1n shold work too on distributions based on debian,like ubuntu touch `**
+**ADD:others linux phone should work too,called pinera1n just because the first successed case was on pinephone,contact me on [Twitter](https://twitter.com/powen00hsiao) if your os using others update method**
 
 ## Demo 
 
@@ -17,45 +17,74 @@ I think this is a great way to make checkra1n portable,runs on pinephone and you
 ![Demo photo][2]
 ![Demo photo][3]
 
-## Things you need(hardware and mobian image)
+## Things you need(hardware and os image)
 - [A pinephone](https://www.pine64.org/pinephone/)
 - A usb-c docking bar (contain usb-A to lighting and usb-c charging port,must use usb-A to lightning connect iphone)
 - usb-A to lightning
 - charging supply with usb-c
 - micro sd card 
+### choose a linux distribution(different from update method)
+**apt-get**
 - [latest release of mobian image](https://mobian-project.org)
 
-## Things you need on mobian
+**pacman**
+- [latest release of manjaro image](https://wiki.pine64.org/wiki/PinePhone_Software_Releases#Manjaro_ARM)
+- [latest release of arch image](https://github.com/dreemurrs-embedded/Pine64-Arch/releases)
+
+## Things you need 
 - xterm(for resize terminal size)
 - usbmuxd(must need to connect iphone correctly)
 - [latest checkra1n release for linux arm64](https://checkra.in)
-- king's cross(terminal program on mobian)
+-  a terminal program can set scale of terminal window(default program should work)
 
-## `Things you need on mobian if want odysseyra1n(optional)`
+## `Things you need if want odysseyra1n(optional)`
 - curl
-- libusbmuxd-tools
+- libusbmuxd-tools(libusbmuxd)
 
 ## Getting  Start
 
 Now following steps to get a friendly easily portable checkra1n ,with this while you lose jailbreak environment,just connect to pinephone,start with friendly gui to rejailbreak,don't need computer 
 
-### Flash mobian to emmc or sd card 
+### Flash os to emmc or sd card 
 
-First,you need to flash mobian to pinephone,check this [tutorial](https://wiki.pine64.org/wiki/PinePhone_Installation_Instructions)
+First,if you need to flash os to pinephone,check this [tutorial](https://wiki.pine64.org/wiki/PinePhone_Installation_Instructions)
 
-### Perpare things will need on mobian
+### Perpare things will need on os(*notice the right commands should use*)
 
 update it first 
+
+**`for apt-get`**
 ```
 sudo apt-get update
 sudo apt-get upgrade
 ```
+**`for pacman`**
+```
+sudo pacman -Syu
+```
 reboot after these 
 
 now install xterm and usbmuxd 
+
+**`for apt-get`**
 ```
-sudo apt-get install xterm
-sudo apt-get install usbmuxd
+sudo apt-get install xterm usbmuxd
+```
+**`for pacman`**
+```
+sudo pacman -S xterm usbmuxd
+```
+**optional for odysseyra1n**
+
+install curl and libusbmuxd-tools(libusbmuxd)
+
+**`for apt-get`**
+```
+sudo apt-get install curl libusbmuxd-tools
+```
+**`for pacman`**
+```
+sudo pacman -S curl libisbmuxd
 ```
 now give checkra1n permission
 ```
@@ -68,13 +97,6 @@ exit terminal and re-open it ,now set the terminal size and scale ,so that we ca
 type this in terminal ,make sure W bigger than 80 and H 24
 ```
 resize -s 80 24
-```
-**optional for odysseyra1n**
-
-install curl and libusbmuxd-tools(these are optional,can skip if only need checkra1n)
-```
-sudo apt-get install curl
-sudo apt-get install libusbmuxd-tools
 ```
 
 ### Now we can run checkra1n on pinephone 
@@ -94,9 +116,13 @@ quit checkra1n on pinephone and don't open checkra1n on iphone
 make sure have installed optional dependencies for odysseyra1n
 
 and paste the command
-`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/coolstar/Odyssey-bootstrap/master/procursus-deploy-linux-macos.sh)"`
-it will require password and type
-`alpine`
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/coolstar/Odyssey-bootstrap/master/procursus-deploy-linux-macos.sh)"
+```
+it will require password and type(default password is alpine)
+```
+alpine
+```
 you will see sileo on iphone ,search and install libhooker and rocketbootstrap,end
 
 ## `Advantage of pinera1n`
@@ -109,15 +135,16 @@ you will see sileo on iphone ,search and install libhooker and rocketbootstrap,e
 - you can use the latest release of checkra1n on pinephone
 - no  complex progress,most of steps on phones
 - **odysseyra1n works on pinephone**
+- **not only one distribution can use pinera1n**
 
-## Demo video
+## Demo video(mobian)
 just show how I do it ,have upload another video as tutorial video
 
 <a href="https://www.youtube.com/watch?v=M5mNpY8a2zM">
   <img src="https://img.youtube.com/vi/M5mNpY8a2zM/maxresdefault.jpg" >
 </a>
 
-## Tutorial video
+## Tutorial video(odysseyra1n on mobian)
 The progress I used odysseyra1n 
 
 <a href="https://www.youtube.com/watch?v=Ite65xLu4TE">
