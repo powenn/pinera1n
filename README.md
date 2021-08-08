@@ -5,7 +5,7 @@
 
 ## A jailbreak method with linux phone 
 
-I think this is a great way to make checkra1n portable,runs on pinephone and you can use GUI  oringinal latest release of checkra1n,and you can operate it with touchscreen ,It called pinera1n because it's checkra1n on pinephone,it's not a expensive but really useful phone,linux using `apt-get` or `pacman` both are work,`recently default os on pinephone is manjaro,it means you don't need to flash new os to pinephone`,I had tested with arch,manjaro,mobian,now follow the steps to jailbreak with the awesome phone 
+I think this is a great way to make checkra1n portable,runs on pinephone and you can use GUI  oringinal latest release of checkra1n,and you can operate it with touchscreen ,It called pinera1n because I test all of these on pinephone,it's not a expensive but really useful phone,linux using `apt-get` or `pacman` both are work,`recently default os on pinephone is manjaro,it means you don't need to flash new os to pinephone`,I had tested with arch,manjaro,mobian,now follow the steps to jailbreak with the awesome phone 
 
 **NOTE:odysseyra1n works too on pinephone**
 
