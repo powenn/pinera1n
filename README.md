@@ -132,11 +132,16 @@ Once it finishes, you'll see Sileo on your iPhone, so you can install/update lib
 - **odysseyra1n works on pinephone**
 - **pinera1n supports multiple Linux distributions**
 
-## Demo video(mobian)
-This is a simple video just showing what it looks like to use it:
-
+## Demo video
+These are simple videos just showing what it looks like to use it:
+### Mobian
 <a href="https://www.youtube.com/watch?v=M5mNpY8a2zM">
   <img src="https://img.youtube.com/vi/M5mNpY8a2zM/maxresdefault.jpg" >
+</a>
+
+### Manjaro
+<a href="https://www.youtube.com/watch?v=0EkEFZlKQUE">
+  <img src="https://img.youtube.com/vi/0EkEFZlKQUE/maxresdefault.jpg" >
 </a>
 
 ## Tutorial video(odysseyra1n on mobian)
