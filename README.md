@@ -161,7 +161,7 @@ This video provides instructions in case that's easier to follow:
 
 [checkra1n success on manjaro](https://twitter.com/powen00hsiao/status/1424230136518352908)
 
-[odysseyra1n success on manjaro](https://twitter.com/powen00hsiao/status/1424283336235577345)
+[odysseyra1n success on manjaro](https://twitter.com/powen00hsiao/status/1425100540971716613)
 
 ## My repo
 My repo for jailbreak tweaks is here: [powen00hsiao repo](https://powenn.github.io/powen00hsiao/)
