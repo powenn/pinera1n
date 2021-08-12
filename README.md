@@ -153,15 +153,15 @@ This video provides instructions in case that's easier to follow:
 
 ## My posts on Twitter 
 
-[checkra1n success on mobian](https://twitter.com/powen00hsiao/status/1421803816421257227)
+[checkra1n successed on mobian](https://twitter.com/powen00hsiao/status/1421803816421257227)
 
 [sideload with pinehphne test (using appsync)](https://twitter.com/powen00hsiao/status/1422377286393729028)
 
-[checkra1n success on arch](https://twitter.com/powen00hsiao/status/1424192009825263620)
+[checkra1n successed on arch](https://twitter.com/powen00hsiao/status/1424192009825263620)
 
-[checkra1n success on manjaro](https://twitter.com/powen00hsiao/status/1424230136518352908)
+[checkra1n successed on manjaro](https://twitter.com/powen00hsiao/status/1424230136518352908)
 
-[odysseyra1n success on manjaro](https://twitter.com/powen00hsiao/status/1425100540971716613)
+[odysseyra1n successed on manjaro](https://twitter.com/powen00hsiao/status/1425100540971716613)
 
 ## My repo
 My repo for jailbreak tweaks is here: [powen00hsiao repo](https://powenn.github.io/powen00hsiao/)
