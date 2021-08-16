@@ -20,7 +20,10 @@ This is a great way to make checkra1n portable, since it runs on PinePhone! You 
 - USB-C docking bar with a USB-A to Lightning and USB-C charging port(**Use USB-A to Lightning to connect the iPhone!**)
 - USB-A to Lightning cable
 - USB-C charging supply
+
+## Hardware you might need
 - Micro-SD card
+- a card reader
 
 ## Supported Linux distributions(only list that I have tested)
 **`apt-get` distributions**
