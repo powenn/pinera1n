@@ -160,6 +160,8 @@ This video provides instructions in case that's easier to follow:
 
 [sideload with pinehphne test (using appsync)](https://twitter.com/powen00hsiao/status/1422377286393729028)
 
+[cydia impactor 64bit on pinephone mobian with chroot(but cannot connect to iphone)](https://twitter.com/powen00hsiao/status/1427641693856272385)
+
 [checkra1n successed on arch](https://twitter.com/powen00hsiao/status/1424192009825263620)
 
 [checkra1n successed on manjaro](https://twitter.com/powen00hsiao/status/1424230136518352908)
