@@ -7,7 +7,7 @@
 
 This is a great way to make checkra1n portable, since it runs on PinePhone! You can use the latest GUI release of checkra1n, and you can operate it with the phone's touchscreen! It's called pinera1n because it was tested on PinePhone, which was inexpensive and very useful! Using `apt-get` or `pacman` on your Linux distribution will work. Recently, the default OS on PinePhone has become Manjaro, so you won't need to flash a new OS to use this on your PinePhone. However, I've also tested Arch and Mobian.
 
-**NOTE:Odysseyra1n also works! In addition, other Linux phones should work too. This tool is called pinera1n just because it first succeeded on a PinePhone. Please contact me on [Twitter](https://twitter.com/powen00hsiao) if your Linux distribution uses a different package handling system than `apt-get` or `pacman`.**
+**NOTE:Odysseyra1n also works! In addition, other Linux phones should work,too. This tool is called pinera1n because it first succeeded on a PinePhone. Please contact me on [Twitter](https://twitter.com/powen00hsiao) if your Linux distribution uses a different package handling system than `apt-get` or `pacman`.**
 
 ## Demo 
 
@@ -25,7 +25,7 @@ This is a great way to make checkra1n portable, since it runs on PinePhone! You 
 - Micro-SD card
 - a card reader
 
-## Supported Linux distributions(only list that I have tested)
+## Supported Linux distributions(those that I have tested)
 **`apt-get` distributions**
 - [latest release of mobian image](https://mobian-project.org)
 
@@ -41,7 +41,7 @@ This is a great way to make checkra1n portable, since it runs on PinePhone! You 
 
 In this tutorial, we will assume the checkra1n release is in your Downloads folder.
 
-### Software only needed for odysseyra1n support
+### Software needed for odysseyra1n support
 - curl
 - libusbmuxd-tools(libusbmuxd)
 
@@ -116,7 +116,7 @@ If you're not using odysseyra1n yet and want to, keep going.Don't open the check
 
 ## Odysseyra1n Conversion Instructions
 
-Make sure you've already installed the optional dependencies for odysseyra1n. If so, enter this:
+Make sure you've already installed the optional dependencies for odysseyra1n. Then, enter this:
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/coolstar/Odyssey-bootstrap/master/procursus-deploy-linux-macos.sh)"
 ```
@@ -148,7 +148,7 @@ These are simple videos just showing what it looks like to use it:
 </a>
 
 ## Tutorial video(odysseyra1n on mobian)
-This video provides instructions in case that's easier to follow:
+This video provides instructions in so that it's easier to follow.
 
 <a href="https://www.youtube.com/watch?v=Ite65xLu4TE">
   <img src="https://img.youtube.com/vi/Ite65xLu4TE/maxresdefault.jpg" >
