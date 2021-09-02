@@ -5,9 +5,9 @@
 
 ## Jailbreak method with Linux phone 
 
-This is a great way to make checkra1n portable, since it runs on PinePhone! You can use the latest GUI release of checkra1n, and you can operate it with the phone's touchscreen! It's called pinera1n because it was tested on PinePhone, which was inexpensive and very useful! Using `apt-get` or `pacman` on your Linux distribution will work. Recently, the default OS on PinePhone has become Manjaro, so you won't need to flash a new OS to use this on your PinePhone. However, I've also tested Arch and Mobian.
+This is a great way to make checkra1n portable, since it runs on PinePhone. You can use the latest GUI release of checkra1n, and you can operate it with the phone's touchscreen! It's called pinera1n because it was tested on PinePhone, which was inexpensive and very useful! Using `apt-get` or `pacman` on your Linux distribution will work. Recently, the default OS on PinePhone has become Manjaro, so you won't need to flash a new OS to use this on your PinePhone. However, I've also tested Arch and Mobian.
 
-**NOTE:Odysseyra1n also works! In addition, other Linux phones should work,too. This tool is called pinera1n because it first succeeded on a PinePhone. Please contact me on [Twitter](https://twitter.com/powen00hsiao) if your Linux distribution uses a different package handling system than `apt-get` or `pacman`.**
+**NOTE:Odysseyra1n also works. In addition, other Linux phones should work,too. This tool is called pinera1n because it first succeeded on a PinePhone. Please contact me on [Twitter](https://twitter.com/powen00hsiao) if your Linux distribution uses a different package handling system than `apt-get` or `pacman`.**
 
 ## Demo 
 
@@ -17,7 +17,7 @@ This is a great way to make checkra1n portable, since it runs on PinePhone! You 
 
 ## Hardware you'll need
 - [A pinephone](https://www.pine64.org/pinephone/)
-- USB-C docking bar with a USB-A to Lightning and USB-C charging port(**Use USB-A to Lightning to connect the iPhone!**)
+- USB-C docking bar with a USB-A to Lightning and USB-C charging port(**Use USB-A to Lightning to connect the iPhone**)
 - USB-A to Lightning cable
 - USB-C charging supply
 
@@ -46,11 +46,11 @@ In this tutorial, we will assume the checkra1n release is in your Downloads fold
 - libusbmuxd-tools(libusbmuxd)
 
 ## Getting Started
-Please follow these steps carefully so you can use your PinePhone to jailbreak instead of a computer!
+Please follow these steps carefully so you can use your PinePhone to jailbreak instead of a computer.
 
 ### A. Flash os to emmc or sd card 
 
-If you are flashing a different OS, please follow this [tutorial](https://wiki.pine64.org/wiki/PinePhone_Installation_Instructions)!
+If you are flashing a different OS, please follow this [tutorial](https://wiki.pine64.org/wiki/PinePhone_Installation_Instructions).
 
 ### B. Install dependencies
 
@@ -129,9 +129,9 @@ Once it finishes, you'll see Sileo on your iPhone, so you can install/update lib
 - Portable and friendly to operate with full GUI and touchscreen
 - You can still do more than jailbreak your iPhone on the PinePhone
 - It's not crazy expensive, and the PinePhone doesn't need to be jailbroken.
-- Setup instructions are simple, and it's straightfoward after setup!
+- Setup instructions are simple, and it's straightfoward after setup.
 - checkra1n officially supports Linux on ARM, so it works better than Android would 
-- You can use the latest release of checkra1n on pinephone immediately!
+- You can use the latest release of checkra1n on pinephone immediately.
 - **odysseyra1n works on pinephone**
 - **pinera1n supports multiple Linux distributions**
 
