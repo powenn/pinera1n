@@ -15,7 +15,7 @@ This is a great way to make checkra1n portable, since it runs on PinePhone. You 
 ![Demo photo][2]
 ![Demo photo][3]
 
-## What's news
+## What's new
 `Add quick setup to setup all dependencies and download cheeckra1n with one command`
 
 ## Hardware you'll need
