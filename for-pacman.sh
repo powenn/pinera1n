@@ -5,7 +5,6 @@ echo "now installing dependencies"
 sudo pacman -Syu
 sudo pacman -S xterm usbmuxd curl libusbmuxd
 wget https://assets.checkra.in/downloads/linux/cli/arm64/43019a573ab1c866fe88edb1f2dd5bb38b0caf135533ee0d6e3ed720256b89d0/checkra1n
-cp -R /Downloads/checkra1n /Home
 chmod +x checkra1n
 echo ""
 echo "⣿⣿⣿⠟⠛⠛⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⢋⣩⣉⢻"
