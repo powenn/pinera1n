@@ -15,6 +15,9 @@ This is a great way to make checkra1n portable, since it runs on PinePhone. You 
 ![Demo photo][2]
 ![Demo photo][3]
 
+## What's news
+`Add quick setup to setup all dependencies and download cheeckra1n with one command`
+
 ## Hardware you'll need
 - [A pinephone](https://www.pine64.org/pinephone/)
 - USB-C docking bar with a USB-A to Lightning and USB-C charging port(**Use USB-A to Lightning to connect the iPhone**)
@@ -46,6 +49,21 @@ In this tutorial, we will assume the checkra1n release is in your Downloads fold
 - libusbmuxd-tools(libusbmuxd)
 
 ## Getting Started
+You can select Qucik setup or Manually setup
+## Qucik setup 
+Use this to setup all dependencies and download cheeckra1n with one command
+
+- for `apt-get`
+```
+sudo /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/powenn/pinera1n/main/for-apt-get.sh)"
+```
+
+- for `pacman`
+```
+sudo /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/powenn/pinera1n/main/for-pacman.sh)"
+```
+
+## Manually setup
 Please follow these steps carefully so you can use your PinePhone to jailbreak instead of a computer.
 
 ### A. Flash os to emmc or sd card 
