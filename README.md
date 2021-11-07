@@ -16,7 +16,7 @@ This is a great way to make checkra1n portable, since it runs on PinePhone. You 
 ![Demo photo][3]
 
 ## What's new
-`Add quick setup to setup all dependencies and download cheeckra1n with less commands`
+`Add quick setup to setup `all dependencies` and `download cheeckra1n` with less commands`
 
 ## Hardware you'll need
 - [A pinephone](https://www.pine64.org/pinephone/)
@@ -52,7 +52,7 @@ You can select Quick setup or Manually setup
 ## Quick setup 
 If you are flashing a different OS, please follow this [tutorial](https://wiki.pine64.org/wiki/PinePhone_Installation_Instructions).
 
-Use this to setup all dependencies and download cheeckra1n with two commands
+Use this to setup `all dependencies` and `download cheeckra1n` with two commands
 
 after run these commands,checkra1n will locate at Home and already got permission
 
