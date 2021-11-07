@@ -54,7 +54,7 @@ If you are flashing a different OS, please follow this [tutorial](https://wiki.p
 
 Use this to setup all dependencies and download cheeckra1n with two commands
 
-after run these commands,checkra1n will in Home and already got permission
+after run these commands,checkra1n will locate at Home and already got permission
 
 - for `apt-get`
 ```
