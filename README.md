@@ -16,7 +16,7 @@ This is a great way to make checkra1n portable, since it runs on PinePhone. You 
 ![Demo photo][3]
 
 ## What's new
-`Add quick setup to setup all dependencies and download cheeckra1n with one command`
+`Add quick setup to setup all dependencies and download cheeckra1n with less commands`
 
 ## Hardware you'll need
 - [A pinephone](https://www.pine64.org/pinephone/)
@@ -51,14 +51,20 @@ In this tutorial, we will assume the checkra1n release is in your Downloads fold
 ## Getting Started
 You can select Qucik setup or Manually setup
 ## Qucik setup 
-Use this to setup all dependencies and download cheeckra1n with one command
+Use this to setup all dependencies and download cheeckra1n with two commands
 
 - for `apt-get`
+```
+sudo apt-get update && sudo apt-get -y upgrade && sudo apt-get install curl
+```
 ```
 sudo /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/powenn/pinera1n/main/for-apt-get.sh)"
 ```
 
 - for `pacman`
+```
+sudo pacman -Syu && sudo pacman -S curl
+```
 ```
 sudo /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/powenn/pinera1n/main/for-pacman.sh)"
 ```
