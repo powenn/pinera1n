@@ -9,6 +9,8 @@ This is a great way to make checkra1n portable, since it runs on PinePhone. You 
 
 **NOTE:Odysseyra1n also works. In addition, other Linux phones should work,too. This tool is called pinera1n because it first succeeded on a PinePhone. Please contact me on [Twitter](https://twitter.com/powen00hsiao) if your Linux distribution uses a different package handling system than `apt-get` or `pacman`.**
 
+**SECOND NOTE:now only needs two commands to install dependencies and download checkra1n ,but actually it can merge two into one**
+
 ## Demo 
 
 ![Demo photo][1]
