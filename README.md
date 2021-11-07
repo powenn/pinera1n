@@ -42,7 +42,6 @@ This is a great way to make checkra1n portable, since it runs on PinePhone. You 
 - [Latest checkra1n release for linux arm64](https://checkra.in)
 -  a terminal program can set scale of terminal window(default program should work)
 
-In this tutorial, we will assume the checkra1n release is in your Downloads folder.
 
 ### Software needed for odysseyra1n support
 - curl
@@ -51,7 +50,11 @@ In this tutorial, we will assume the checkra1n release is in your Downloads fold
 ## Getting Started
 You can select Quick setup or Manually setup
 ## Quick setup 
+If you are flashing a different OS, please follow this [tutorial](https://wiki.pine64.org/wiki/PinePhone_Installation_Instructions).
+
 Use this to setup all dependencies and download cheeckra1n with two commands
+
+after run these commands,checkra1n will in Home and already got permission
 
 - for `apt-get`
 ```
@@ -129,6 +132,8 @@ resize -s 80 24
 Connect your iPhone to your PinePhone via the docking bar. Make sure you charge your pinephone via docking bar for a stable connection. If your iPhone asks you to verify access to device, allow it.
 
 Open and run checkra1n with this command:
+
+default downloaded checkra1n loaction should in Downloads 
 ```
 cd Downloads/checkra1n
 sudo ./checkra1n
