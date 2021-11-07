@@ -49,7 +49,7 @@ In this tutorial, we will assume the checkra1n release is in your Downloads fold
 - libusbmuxd-tools(libusbmuxd)
 
 ## Getting Started
-You can select Qucik setup or Manually setup
+You can select Quick setup or Manually setup
 ## Qucik setup 
 Use this to setup all dependencies and download cheeckra1n with two commands
 
